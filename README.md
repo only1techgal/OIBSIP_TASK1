@@ -22,8 +22,6 @@ ___
 1. **Clone the repository:**
    to install, clone the repository to your local machine:
    ```bash
-    git clone https://github.com/only1techgal/numcruncher.git
+    git clone https://github.com/only1techgal/OIBSIP_TASK1.git
    ```
-   -> cd NumCruncher
-
    -> open index.html
