@@ -24,4 +24,5 @@ ___
    ```bash
     git clone https://github.com/only1techgal/OIBSIP_TASK1.git
    ```
+   -> cd Calculator
    -> open index.html
